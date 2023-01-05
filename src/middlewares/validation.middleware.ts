@@ -18,6 +18,7 @@ export default class RequestValidator {
     forbidNonWhitelisted = true,
   ): RequestHandler => {
     return async (req: Request, res: Response, next: NextFunction) => {
+      // eslint-disable-next-line security/detect-object-injection
       const convertedObject = plainToInstance(classInstance, (req as any)[value]);
       await validate(convertedObject, { skipMissingProperties, whitelist, forbidNonWhitelisted }).then((errors: ValidationError[]) => {
         if (errors.length > 0) {
