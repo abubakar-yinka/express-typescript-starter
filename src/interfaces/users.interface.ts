@@ -19,6 +19,7 @@ export interface IUserDoc extends IUser, Document {
 }
 
 export interface IUserModel extends Model<IUserDoc> {
+  _id: mongoose.Types.ObjectId;
   isEmailTaken(email: string, excludeUserId?: mongoose.Types.ObjectId): Promise<boolean>;
   paginate(filter: Record<string, any>, options: Record<string, any>): Promise<QueryResult>;
 }
