@@ -1,4 +1,5 @@
 {
+  "extends": "@tsconfig/node16/tsconfig.json",
   "compileOnSave": false,
   "compilerOptions": {
     "target": "es2017",
@@ -25,6 +26,7 @@
       "@config": ["config"],
       "@controllers/*": ["controllers/*"],
       "@databases": ["databases"],
+      "@docs/*": ["docs/*"],
       "@dtos/*": ["dtos/*"],
       "@exceptions/*": ["exceptions/*"],
       "@interfaces/*": ["interfaces/*"],
@@ -35,6 +37,7 @@
       "@utils/*": ["utils/*"]
     }
   },
-  "include": ["src/**/*.ts", "src/**/*.json", ".env"],
-  "exclude": ["node_modules", "src/http", "src/logs", "src/tests"]
+  "include": ["src/**/*", "tests/**/*"],
+  "exclude": ["node_modules", "src/http", "src/logs", "src/tests"],
+  "files": ["src/types.d.ts"]
 }
