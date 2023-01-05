@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\.c7a3caec5f32e08cb8e671844cdde676605c6f0b-audit.json",
+    "files": [
+        {
+            "date": 1672908038248,
+            "name": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\info-2023-01-05.log",
+            "hash": "22455090a134862a93b0812b6875e86de74d4e0fe97071b7498b43410343a545"
+        }
+    ],
+    "hashType": "sha256"
+}

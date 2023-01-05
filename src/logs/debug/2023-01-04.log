@@ -1,0 +1,114 @@
+2023-01-04 09:51:04 info: =================================
+2023-01-04 09:51:04 info: ======= ENV: development =======
+2023-01-04 09:51:04 info: 🚀 App listening on the port 3000
+2023-01-04 09:51:04 info: =================================
+2023-01-04 09:51:11 info: Connected to InterPocket's DB Successfully...
+2023-01-04 09:52:29 info: =================================
+2023-01-04 09:52:29 info: ======= ENV: development =======
+2023-01-04 09:52:29 info: 🚀 App listening on the port 3000
+2023-01-04 09:52:29 info: =================================
+2023-01-04 09:52:36 info: Connected to InterPocket's DB Successfully...
+2023-01-04 09:54:34 info: =================================
+2023-01-04 09:54:34 info: ======= ENV: development =======
+2023-01-04 09:54:34 info: 🚀 App listening on the port 3000
+2023-01-04 09:54:34 info: =================================
+2023-01-04 09:54:49 info: =================================
+2023-01-04 09:54:49 info: ======= ENV: development =======
+2023-01-04 09:54:49 info: 🚀 App listening on the port 3000
+2023-01-04 09:54:49 info: =================================
+2023-01-04 09:54:54 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:26:36 info: =================================
+2023-01-04 10:26:36 info: ======= ENV: development =======
+2023-01-04 10:26:36 info: 🚀 App listening on the port 3000
+2023-01-04 10:26:36 info: =================================
+2023-01-04 10:26:43 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:28:23 info: =================================
+2023-01-04 10:28:23 info: ======= ENV: development =======
+2023-01-04 10:28:23 info: 🚀 App listening on the port 3000
+2023-01-04 10:28:23 info: =================================
+2023-01-04 10:28:30 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:29:37 info: =================================
+2023-01-04 10:29:37 info: ======= ENV: development =======
+2023-01-04 10:29:37 info: 🚀 App listening on the port 3000
+2023-01-04 10:29:37 info: =================================
+2023-01-04 10:29:40 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:30:24 info: =================================
+2023-01-04 10:30:24 info: ======= ENV: development =======
+2023-01-04 10:30:24 info: 🚀 App listening on the port 3000
+2023-01-04 10:30:24 info: =================================
+2023-01-04 10:30:31 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:30:43 info: =================================
+2023-01-04 10:30:43 info: ======= ENV: test =======
+2023-01-04 10:30:43 info: 🚀 App listening on the port 3000
+2023-01-04 10:30:43 info: =================================
+2023-01-04 10:30:46 info: Connected to InterPocket's DB Successfully...
+2023-01-04 10:31:01 info: =================================
+2023-01-04 10:31:01 info: ======= ENV: development =======
+2023-01-04 10:31:01 info: 🚀 App listening on the port 3000
+2023-01-04 10:31:01 info: =================================
+2023-01-04 10:31:03 info: Connected to InterPocket's DB Successfully...
+2023-01-04 17:26:36 info: =================================
+2023-01-04 17:26:36 info: ======= ENV: development =======
+2023-01-04 17:26:36 info: 🚀 App listening on the port 3000
+2023-01-04 17:26:36 info: =================================
+2023-01-04 17:26:43 info: Connected to InterPocket's DB Successfully...
+2023-01-04 17:34:45 info: =================================
+2023-01-04 17:34:45 info: ======= ENV: development =======
+2023-01-04 17:34:45 info: 🚀 App listening on the port 3000
+2023-01-04 17:34:45 info: =================================
+2023-01-04 17:34:52 info: Connected to InterPocket's DB Successfully...
+2023-01-04 17:53:04 info: =================================
+2023-01-04 17:53:04 info: ======= ENV: development =======
+2023-01-04 17:53:04 info: 🚀 App listening on the port 3000
+2023-01-04 17:53:04 info: =================================
+2023-01-04 17:53:11 info: Connected to InterPocket's DB Successfully...
+2023-01-04 18:45:08 info: =================================
+2023-01-04 18:45:08 info: ======= ENV: development =======
+2023-01-04 18:45:08 info: 🚀 App listening on the port 3000
+2023-01-04 18:45:08 info: =================================
+2023-01-04 18:45:14 info: Connected to InterPocket's DB Successfully...
+2023-01-04 18:46:14 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found, Stack:: Error: Requested path / not found
+    at C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:75:19
+    at Layer.handle [as handle_request] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:280:10)
+    at cookieParser (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handle [as handle_request] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\layer.js:95:5)
+2023-01-04 18:46:14 info: [0mGET /testtt [31m500[0m 17.475 ms - -[0m
+2023-01-04 18:46:59 info: =================================
+2023-01-04 18:46:59 info: ======= ENV: development =======
+2023-01-04 18:46:59 info: 🚀 App listening on the port 3000
+2023-01-04 18:46:59 info: =================================
+2023-01-04 18:47:08 info: Connected to InterPocket's DB Successfully...
+2023-01-04 18:47:13 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found
+2023-01-04 18:47:13 info: [0mGET /testtt [31m500[0m 23.386 ms - -[0m
+2023-01-04 18:48:01 info: =================================
+2023-01-04 18:48:01 info: ======= ENV: development =======
+2023-01-04 18:48:01 info: 🚀 App listening on the port 3000
+2023-01-04 18:48:01 info: =================================
+2023-01-04 18:48:06 info: Connected to InterPocket's DB Successfully...
+2023-01-04 18:48:15 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found
+2023-01-04 18:48:15 info: [0mGET /testtt [31m500[0m 26.635 ms - -[0m
+2023-01-04 18:48:31 info: =================================
+2023-01-04 18:48:31 info: ======= ENV: development =======
+2023-01-04 18:48:31 info: 🚀 App listening on the port 3000
+2023-01-04 18:48:31 info: =================================
+2023-01-04 18:48:38 info: Connected to InterPocket's DB Successfully...
+2023-01-04 19:00:48 info: =================================
+2023-01-04 19:00:48 info: ======= ENV: development =======
+2023-01-04 19:00:48 info: 🚀 App listening on the port 3000
+2023-01-04 19:00:48 info: =================================
+2023-01-04 19:01:09 info: =================================
+2023-01-04 19:01:09 info: ======= ENV: development =======
+2023-01-04 19:01:09 info: 🚀 App listening on the port 3000
+2023-01-04 19:01:09 info: =================================
+2023-01-04 19:01:15 info: Connected to InterPocket's DB Successfully...
+2023-01-04 19:01:53 info: =================================
+2023-01-04 19:01:53 info: ======= ENV: development =======
+2023-01-04 19:01:53 info: 🚀 App listening on the port 3000
+2023-01-04 19:01:53 info: =================================
+2023-01-04 19:01:56 info: Connected to InterPocket's DB Successfully...

@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\.7d1b6dba9476235d025b7d1192bb748b47a1d7fc-audit.json",
+    "files": [
+        {
+            "date": 1662417949181,
+            "name": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\2022-09-05.log",
+            "hash": "61335f6c1e2d1cfe11b928efd5e7ac1a4954cb81aa8b98fd5dbf46fc01335de5"
+        },
+        {
+            "date": 1669867185227,
+            "name": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\2022-12-01.log",
+            "hash": "c3d86495a90adb8d04472b5204ec824ea75a24dc49cf0d71fd9b73496528a6df"
+        },
+        {
+            "date": 1672822263216,
+            "name": "C:\\Users\\Yinka\\Desktop\\Codebase\\Interpocket\\Backend Resource\\server\\src\\logs\\error\\2023-01-04.log",
+            "hash": "7f3d6d53b95bfc78ce1145e3ff3b4d34dd59f5e3f1cb0ca13a64191b2951aae2"
+        }
+    ],
+    "hashType": "sha256"
+}

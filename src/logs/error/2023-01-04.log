@@ -1,0 +1,73 @@
+2023-01-04 18:46:14 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found, Stack:: Error: Requested path / not found
+    at C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:75:19
+    at Layer.handle [as handle_request] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\index.js:280:10)
+    at cookieParser (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handle [as handle_request] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\express\lib\router\layer.js:95:5)
+2023-01-04 18:47:13 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found
+2023-01-04 18:48:15 error: [GET] /testtt >> StatusCode:: 500, Message:: Requested path / not found
+2023-01-04 19:00:54 error: uncaughtException: mongoose is not defined
+ReferenceError: mongoose is not defined
+    at App.connectToDatabase (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:54:5)
+    at new App (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:29:10)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\server.ts:9:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+2023-01-04 19:02:30 error: uncaughtException: (0 , mongoose_1.set) is not a function
+TypeError: (0 , mongoose_1.set) is not a function
+    at App.connectToDatabase (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:52:10)
+    at new App (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:30:10)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\server.ts:9:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-6715943001223765.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+2023-01-04 19:16:57 error: uncaughtException: (0 , mongoose_1.set) is not a function
+TypeError: (0 , mongoose_1.set) is not a function
+    at App.connectToDatabase (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:52:10)
+    at new App (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:30:10)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\server.ts:9:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-3102030927599775.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-3102030927599775.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-3102030927599775.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+2023-01-04 19:18:14 error: uncaughtException: (0 , mongoose_1.set) is not a function
+TypeError: (0 , mongoose_1.set) is not a function
+    at App.connectToDatabase (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:52:10)
+    at new App (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\app.ts:30:10)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\server.ts:9:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8881862438636927.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8881862438636927.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8881862438636927.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)

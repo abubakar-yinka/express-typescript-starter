@@ -1,0 +1,1 @@
+2022-12-01 19:59:08 error: Error connecting to InterPocket's DB: MongoParseError: options usefindandmodify, usecreateindex are not supported

@@ -1,0 +1,177 @@
+2023-01-05 10:28:07 error: uncaughtException: IsOptional is not defined
+ReferenceError: IsOptional is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:10:3)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:28:17 error: uncaughtException: IsOptional is not defined
+ReferenceError: IsOptional is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:10:3)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:28:24 error: uncaughtException: Matches is not defined
+ReferenceError: Matches is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:11:12)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:28:30 error: uncaughtException: MinLength is not defined
+ReferenceError: MinLength is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:12:11)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:28:38 error: uncaughtException: MinLength is not defined
+ReferenceError: MinLength is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:12:11)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:28:44 error: uncaughtException: ToCase is not defined
+ReferenceError: ToCase is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:14:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:30:14 error: uncaughtException: ToCase is not defined
+ReferenceError: ToCase is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:15:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:31:41 error: uncaughtException: (0 , class_transformer_1.ToCase) is not a function
+TypeError: (0 , class_transformer_1.ToCase) is not a function
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:16:10)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:31:50 error: uncaughtException: (0 , class_transformer_1.ToCase) is not a function
+TypeError: (0 , class_transformer_1.ToCase) is not a function
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:17:10)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:35:59 error: uncaughtException: Exclude is not defined
+ReferenceError: Exclude is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:9:12)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:36:05 error: uncaughtException: Exclude is not defined
+ReferenceError: Exclude is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:9:12)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:36:11 error: uncaughtException: Exclude is not defined
+ReferenceError: Exclude is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:9:12)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:36:24 error: uncaughtException: (0 , class_transformer_1.ToCase) is not a function
+TypeError: (0 , class_transformer_1.ToCase) is not a function
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:18:10)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 10:37:46 error: uncaughtException: ToCase is not defined
+ReferenceError: ToCase is not defined
+    at Object.<anonymous> (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\src\dtos\users.dto.ts:15:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module._compile (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:69:33)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:114:20)
+    at require.extensions.<computed> (C:\Users\Yinka\AppData\Local\Temp\ts-node-dev-hook-8617348429168197.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\Yinka\Desktop\Codebase\Interpocket\Backend Resource\server\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2023-01-05 12:08:39 error: [GET] /api-docs >> StatusCode:: 404, Message:: The requested path /api-docs not found!
+2023-01-05 12:08:40 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: The requested path /favicon.ico not found!
+2023-01-05 12:16:49 error: [0mGET /api-docs/ [36m304[0m 13.263 ms - -[0m
+2023-01-05 12:16:49 error: [0mGET /api-docs/swagger-ui.css [36m304[0m 8.769 ms - -[0m
+2023-01-05 12:16:49 error: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 7.863 ms - -[0m
+2023-01-05 12:16:49 error: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 1.422 ms - -[0m
+2023-01-05 12:16:49 error: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 7.872 ms - -[0m
+2023-01-05 12:16:49 error: [0mGET /api-docs/favicon-32x32.png [36m304[0m 1.322 ms - -[0m
+2023-01-05 12:17:31 error: [GET] /users >> StatusCode:: 500, Message:: Cannot read property 'find' of undefined
