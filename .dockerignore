@@ -1,4 +1,5 @@
 # compiled output
+.npm
 .vscode
 /node_modules
 
@@ -15,4 +16,8 @@ jest.config.js
 
 # docker
 Dockerfile
-docker-compose.yml
+docker*.yml
+
+.git
+.gitignore
+.config
